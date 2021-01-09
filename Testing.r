@@ -6,3 +6,6 @@ version="RStudio in Writing"
 print(name)
 print("These lines have been written in RStudio")
 print(version)
+# new lines have been added
+print('Pakistan Zindabad')
+print('Love Pakistan')
